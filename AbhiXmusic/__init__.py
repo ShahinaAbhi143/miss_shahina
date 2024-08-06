@@ -1,4 +1,4 @@
-from AbhiXmusic.core.bot import Anony
+from AbhiXmusic.core.bot import Abhi
 from AbhiXmusic.core.dir import dirr
 from AbhiXmusic.core.git import git
 from AbhiXmusic.core.userbot import Userbot
@@ -11,7 +11,7 @@ git()
 dbb()
 heroku()
 
-app = Anony()
+app = Abhi()
 userbot = Userbot()
 
 
