@@ -1,5 +1,5 @@
-from AnonXMusic.misc import SUDOERS
-from AnonXMusic.utils.database import get_lang, is_maintenance
+from AbhiXmusic.misc import SUDOERS
+from AbhiXmusic.utils.database import get_lang, is_maintenance
 from strings import get_string
 
 
